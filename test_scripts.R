@@ -4,5 +4,3 @@ ggplot(mpg, aes(displ, hwy, colour = class)) +
   geom_point()
 
 
-ggplot(mpg, aes(displ, hwy, colour = class)) +
-  geom_line()
